@@ -1,0 +1,16 @@
+.form-control{
+	margin-top:7px;
+	background : transparent;
+}
+.btn-primary{
+	margin-top : 10px;
+	margin-left : 250px;
+}
+.btn-primary:hover{
+	background : green;
+	border : 0px green solid;
+	border-radius : 5px;
+}
+.link{
+	margin-left : 150px;
+}
